@@ -10,7 +10,10 @@ With an easy ngrok setup, you can enable public to download and access your file
 python WebServer.py (port number)
 ```
 3. Go to your localhost using a browser. You should see the directory content listed.<br/>
-![Image2](screenshots/screenshot2.png)
+
+<br/><br/>
+What you shall see:<br/>
+![Image3](screenshots/screenshot3.png)
  
 # Prerequesite
 You need to get Python 3 installed.
