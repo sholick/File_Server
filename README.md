@@ -9,7 +9,7 @@ With an easy ngrok setup, you can enable public to download and access your file
 ```
 python WebServer.py (port number)
 ```
-3. Go to your localhost using a browser. You should see the directory content listed.
+3. Go to your localhost using a browser. You should see the directory content listed.<br/>
 ![Image2](screenshots/screenshot2.png)
  
 # Prerequesite
